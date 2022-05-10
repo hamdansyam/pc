@@ -1,0 +1,11 @@
+#tulisan{
+    font-family: cursive;
+    text-align: center;
+    color:bisque;
+    text-shadow: 2px 2px #8b5858;
+    
+    }
+    .box{
+    background: white;
+    padding: 0px;
+    }
